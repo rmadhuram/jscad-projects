@@ -1,5 +1,5 @@
 n = 4;
-tileSize = 20;  // square of this size
+tileSize = 20;   // each square is of this size
 padding = 30;    // padding around the print
 xMax = 300;
 yMax = 300;
